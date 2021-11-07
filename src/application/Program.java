@@ -4,7 +4,7 @@ import java.util.Locale;
 import java.util.Scanner;
 
 public class Program {
-
+//Exercício resolvido sem Orientação a Objetos
     public static void main(String[] args) {
 
         Locale.setDefault(Locale.US);
